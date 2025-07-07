@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 20px;
+}
+
+a {
+    padding: 5px 0px;
+    display: inline-block;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: Georgia, serif;
+    background-color: rgb(170, 170, 170);
+    margin-top: 0;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+h2 {
+    padding: 5px;
+    border-bottom: 1px solid black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+ul, ol, p {
+    margin-left: 25px;
+    padding: 5px 0px;
+}
+
+li {
+    margin-bottom: 5px;
+    font-family: Verdana, sans-serif;
+}
